@@ -8,6 +8,6 @@ Input:
 4. scripture range
 
 Output:
-2. date.html
+1. date.html
 
 
