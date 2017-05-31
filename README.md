@@ -7,7 +7,7 @@ Input:
 3. Speaker name
 4. scripture range
 
-Output
+Output:
 2. date.html
 
 
